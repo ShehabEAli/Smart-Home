@@ -1,0 +1,1 @@
+/*preprocessor header file guard*/#ifndef DC_Motor_PRIVATE_H_#define DC_Motor_PRIVATE_H_#endif /* DC_Motor_PRIVATE_H_ */
